@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AFDB72DC-AAF0-4741-BC15-58865DB79409}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="gridtest/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="gridtest/MainPage.xaml" Line="45" Column="15" />
+      <File FileName="gridtest/App.xaml" Line="5" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.gridtest.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.gridtest FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
